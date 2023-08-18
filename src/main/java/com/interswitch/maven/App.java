@@ -53,8 +53,11 @@ public class App
 // Close the scanner
         scanner.close();
 
-        System.out.println( "Hello World!" );
+
+
+        System.out.println( "Hello World");
 
     }
+
 
 }
